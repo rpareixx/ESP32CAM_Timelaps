@@ -14,5 +14,5 @@ python3 get-platformio.py
 pio platform install "espressif32"
 
 # Compile project
-pio run -e ESP32CAM_Timelaps
+pio run -e m5stick-c-plus
 #pio run
