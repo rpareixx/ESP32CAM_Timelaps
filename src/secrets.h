@@ -1,0 +1,2 @@
+#define SECRET_CASTEL_SSID "RPA-Network"
+#define SECRET_CASTEL_PASS "GbHuiWLhCaHqMtMtb6c4n98R"
