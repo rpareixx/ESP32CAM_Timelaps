@@ -38,4 +38,4 @@ jobs:
       - name: Install Atmel AVR platform
         run: pio platform install "espressif32"
       - name: Build PlatformIO Project
-        run: pio run -e m5stick-c-plus
+        run: pio run -e esp32cam
